@@ -4,6 +4,9 @@
 - 😄 Pronouns: he/him
 - Fun facts: I drink a lot of water. LIKE A LOT I MEAN.
 
+Contact Info:
+-email: xiangzhenwu.dev@gmail.com
+
 <!---
 AdminChatter/AdminChatter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
